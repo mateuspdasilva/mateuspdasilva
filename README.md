@@ -6,10 +6,12 @@
       </div>
     </td>
     <td width="60%">
-      <h3>Hi, I'm Mateus</h3>
-      <p>I'm a passionate developer with experience in <b>Typescript</b>, <b>Node.js</b>, <b>Python</b>, <b>React.js</b>, <b>React Native</b>, <b>Swift</b>, <b>PHP</b>, and <b>Bash Script</b>.</p>
-      <p>I specialize in performance optimization, building robust integrations, and developing solutions that improve user experience.</p>
-      <p>Currently, I focus on private projects that generate financial value, so I don't have much time for open source contributions. However, I'm always learning and improving the solutions I develop.</p>
+      <div align="center" width="90%">
+          <h3>Mateus here — builder and problem solver.</h3>
+          <p>I'm a developer experienced in <b>Typescript</b>, <b>Node.js</b>, <b>Python</b>, <b>React.js</b>, <b>React Native</b>, <b>Swift</b>, <b>PHP</b>, and <b>Bash Script</b>.</p>
+          <p>I care about performance, clean integrations, and crafting solutions that make a difference.</p>
+          <p>Currently, I focus on private projects that generate financial value, so I don't have much time for open source contributions. Still, I'm always learning and improving the solutions I build.</p>
+      </div>
     </td>
   </tr>
 </table>
